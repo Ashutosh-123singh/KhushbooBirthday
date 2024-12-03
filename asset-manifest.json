@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KhushbooBirthday/static/css/main.6123e95f.css",
+    "main.js": "/KhushbooBirthday/static/js/main.7a196b24.js",
+    "static/js/453.b15a91d3.chunk.js": "/KhushbooBirthday/static/js/453.b15a91d3.chunk.js",
+    "index.html": "/KhushbooBirthday/index.html",
+    "main.6123e95f.css.map": "/KhushbooBirthday/static/css/main.6123e95f.css.map",
+    "main.7a196b24.js.map": "/KhushbooBirthday/static/js/main.7a196b24.js.map",
+    "453.b15a91d3.chunk.js.map": "/KhushbooBirthday/static/js/453.b15a91d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6123e95f.css",
+    "static/js/main.7a196b24.js"
+  ]
+}
